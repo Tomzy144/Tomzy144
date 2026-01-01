@@ -14,31 +14,11 @@ I'm a Web Developer with a strong focus on building clean, functional, and user-
 
 🛠️ Tech Stack
 
-Frontend:
+Frontend: HTML5, CSS3, JavaScript, Bootstrap, React Native (Expo)
 
-HTML5, CSS3, JavaScript
+Backend: PHP, MySQL, AJAX
 
-Bootstrap
-
-React Native (Expo)
-
-Backend:
-
-PHP
-
-MySQL
-
-AJAX
-
-Tools & Others:
-
-Git & GitHub
-
-PHPMailer
-
-REST APIs
-
-VS Code
+Tools & Others: Git & GitHub, PHPMailer, REST APIs, VS Code
 
 📌 Featured Projects
 🏥 Hospital Management System
